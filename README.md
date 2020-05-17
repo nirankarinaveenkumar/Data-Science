@@ -1,5 +1,6 @@
 # Data-Science
 # How to Predict Life Expectancy using Machine Learning
+You can find the link to the Medium Post here - https://medium.com/@nirankari.naveen.13et1136/how-to-predict-life-expectancy-using-machine-learning-5c253ab25125
 
 Life expectancy refers to the average age a person is estimated to live and is an important factor to determine the population health of any country. In the pre-modern world, Life expectancy was very less close to about 30 years but after 19th Century life expectancy started to increase and it nearly doubled. There has been constant debate regarding how developed countries have more life expectancy as compared to developing or underdeveloped countries and hence to get a clear picture of this I decided to analyze the Life Expectancy dataset which I took from Kaggle.
 
